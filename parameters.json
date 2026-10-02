@@ -1,0 +1,14 @@
+{
+  "SUBSCRIPTION_ID_CONNECTIVITY": "4b3363df-6f38-4cbd-b6ae-ae7e7d5acfea",
+  "SUBSCRIPTION_ID_IDENTITY": "216babfe-98ac-429c-a5f0-6d2381c4f040",
+  "MANAGEMENT_GROUP_ID_POSTFIX": "",
+  "MANAGEMENT_GROUP_ID_PREFIX": "",
+  "INTERMEDIATE_ROOT_MANAGEMENT_GROUP_ID": "alz",
+  "SUBSCRIPTION_ID_MANAGEMENT": "4823bcbe-86bf-41d5-bec5-c92fa8ca03dc",
+  "NETWORK_TYPE": "hubNetworking",
+  "LOCATION": "northeurope",
+  "LOCATION_PRIMARY": "northeurope",
+  "MANAGEMENT_GROUP_ID": "mg-roboticinnovation",
+  "LOCATION_SECONDARY": "northeurope",
+  "SUBSCRIPTION_ID_SECURITY": "a48be45e-8ef1-4d69-8b2f-e113acbce13b"
+}
